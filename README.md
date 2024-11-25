@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub    Alex Liu modified and submitted this assignment. 
 
 ## 🤓 Course overview and learning outcomes 
 
